@@ -1,0 +1,215 @@
+/* ========== Style1 ========== */
+
+.iw-testimonals .iw-testimonial-item {
+    margin: 0 15px 30px;
+}
+.iw-testimonial-item {
+    margin: 0 0 30px;
+}
+.iw-testimonial-item.style1 {
+    font-family: "Playfair Display";
+    color: #ffffff;
+    font-weight: 700;
+    font-style: italic;
+    line-height: 48px;
+}
+.iw-testimonial-item.style1 .icon-quote {
+    font-size: 72px;
+}
+.iw-testimonial-item.style1 .testi-content {
+    font-size: 48px;
+}
+
+/* ========== End Style1 ========== */
+
+/* ========== Style2 ========== */
+
+.iw-testimonial-item.style2 .testi-content {
+    font-family: "Playfair Display";
+    font-style: italic;
+    color: #5f80a0;
+}
+
+/* ========== End Style2 ========== */
+
+/* ========== Style3 ========== */
+
+.iw-testimonial-item.style3 .testi-info-wrap {
+    position: relative;
+}
+.iw-testimonial-item.style3 .testi-info-wrap > i{
+    position: absolute;
+    top: 20px;
+    left: 62px;
+    font-size: 150px;
+    color: #000000;
+    z-index: 0;
+    opacity: 0.1;
+}
+.iw-testimonial-item.style3 .testi-content {
+    color: #ffffff;
+    font-weight: 500;
+    background: rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    padding: 45px 50px;
+    margin-bottom: 35px;
+    line-height: 28px;
+    position: relative;
+}
+.iw-testimonial-item.style3 .testi-content:after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 75px;
+    border-left: 10px transparent solid;
+    border-right: 10px transparent solid;
+    border-top: 15px rgba(0, 0, 0, 0.2) solid;
+}
+.iw-testimonial-item.style3 .testi-bottom {
+    position: relative;
+    padding: 0 50px;
+}
+.iw-testimonial-item.style3 .testi-image {
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin-right: 20px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.iw-testimonial-item.style3 .testi-bottom-left {
+    overflow: hidden;
+    line-height: 20px;
+    padding-top: 15px;
+}
+.iw-testimonial-item.style3 .testi-client-name {
+    font-weight: 600;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.iw-testimonial-item.style3 .testi-client-position {
+    color: #000000;
+    margin-top: 5px;
+}
+/* ========== End Style3 ========== */
+
+/* ========== Style4 ========== */
+.iw-testimonial-item.style4 {
+    text-align: center;
+    margin-bottom: 55px;
+}
+.iw-star-rating {
+    position: relative;
+    color: #f6ab09;
+    text-align: center;
+    height: 20px;
+    width: 104px;
+    font-size: 18px;
+    margin: 30px auto 30px;
+}
+.iw-star-rating:before {
+    color: #d3ced2;
+    content: "\f2fc \f2fc \f2fc \f2fc \f2fc";
+    font-family: "Ionicons";
+    float: left;
+    left: 0;
+    position: absolute;
+    top: 0;
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+.iw-star-rating span.rating:before {
+    content: "\f2fc \f2fc \f2fc \f2fc \f2fc";
+    font-family: "Ionicons";
+    left: 0;
+    position: absolute;
+    top: 0;
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+.iw-testimonial-item.style4 .testi-content {
+    color: #333333;
+    font-family: "Playfair Display";
+    font-size: 24px;
+    font-style: italic;
+    line-height: 40px;
+    position: relative;
+}
+.iw-testimonial-item.style4 .testi-content:before {
+    content: "“";
+}
+.iw-testimonial-item.style4 .testi-content:after {
+    content: "”";
+}
+.iw-testimonals.style1 {
+    text-align: center;
+}
+.iw-testimonals.style1 .slick-list {
+    padding: 0 !important;
+}
+.iw-testimonals.style1 .iw-testimonial-client-item {
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+}
+.iw-testimonals.style1 .iw-testimonial-client-item .testi-image {
+    height: 110px;
+    width: 110px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    opacity: 0.2;
+    overflow: hidden;
+    margin: 0 auto 22px;
+    padding: 20px;
+}
+.iw-testimonals.style1 .iw-testimonial-client-item .testi-image img {
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+.iw-testimonals.style1 .slick-center .testi-image {
+    -webkit-box-shadow: 0 3px 7px 0 rgba(74,144,226,0.2);
+    box-shadow: 0 3px 7px 0 rgba(74,144,226,0.2);
+    opacity: 1;
+    padding: 0;
+}
+.iw-testimonals.style1 .iw-testimonial-client-item .testi-client-name {
+    color: #333333;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    text-transform: uppercase;
+    opacity: 0;
+    margin-bottom: 5px;
+    display: none;
+}
+.iw-testimonals.style1 .iw-testimonial-client-item .testi-client-position {
+    opacity: 0;
+    color: #333333;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    display: none;
+}
+.iw-testimonals.style1 .slick-center .testi-client-name {
+    opacity: 1;
+    display: block;
+}
+.iw-testimonals.style1 .slick-center .testi-client-position {
+    opacity: 0.5;
+    display: block;
+}
+/* ========== End Style4 ========== */
+
+/* ========== RTL ========== */
+
+
+/* ========== Responsive ========== */
+@media (max-width: 980px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 479px) {
+}

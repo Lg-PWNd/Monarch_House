@@ -1,0 +1,10 @@
+/*Update Notice - Full block*/
+.update-nag
+{
+      display: block;
+}
+/*Customizer Edits*/
+.customize-control #image-or-slider
+{
+        margin-left: 0;
+}

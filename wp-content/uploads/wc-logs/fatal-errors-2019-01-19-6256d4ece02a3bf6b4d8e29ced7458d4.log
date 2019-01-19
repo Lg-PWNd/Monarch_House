@@ -1,0 +1,286 @@
+2019-01-19T01:07:35+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T01:07:49+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T01:08:11+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T01:16:52+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T01:59:55+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T02:08:49+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:31:17+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:32:02+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:32:17+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:32:26+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:32:41+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:33:12+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:35:04+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:35:43+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:35:58+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:40:35+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:49:00+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:50:59+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:52:49+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:53:06+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:53:58+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:54:13+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:57:08+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T03:59:22+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T04:03:49+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-19T04:53:37+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+

@@ -1,0 +1,732 @@
+2019-01-18T22:29:17+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:29:30+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:29:41+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:34:25+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:34:32+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:34:40+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:34:48+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:47:07+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:48:36+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:55:43+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T22:57:44+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:58:27+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:58:40+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:58:42+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:01+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:24+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:26+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:26+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:27+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:28+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:28+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:29+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:29+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:30+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:30+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:31+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:31+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:31+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:32+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:32+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:32+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:34+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:34+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:35+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T22:59:36+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:00:23+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:03:20+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:03:22+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:03:36+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:03:54+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:04:02+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:04:22+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:05:25+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:06:06+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:06:40+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:06:52+00:00 CRITICAL Uncaught Error: Class 'Inwave_Helper' not found in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php:13
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): Inwave_Map->register_scripts('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/html/wordpress/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/html/wordpress/wp-content/themes/robojob-lite/header.php(19): wp_head()
+#9 /var/www/html/wordpress/wp-includes/template.php(688): require_onc in /var/www/html/wordpress/wp-content/plugins/inwave-common/shortcodes/map.php on line 13
+
+2019-01-18T23:07:58+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:08:08+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:08:16+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:08:18+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:08:23+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:14:26+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:14:53+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:15:49+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:16:08+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:16:18+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:17:42+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:17:52+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:30:29+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
+2019-01-18T23:57:17+00:00 CRITICAL Uncaught Exception: Google PHP API Client requires the CURL PHP extension in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php:21
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google.php(57): require_once()
+#1 /var/www/html/wordpress/wp-content/plugins/iwjob/templates/login-popup.php(59): IWJ_Social_Login_Google->get_login_url()
+#2 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(535): require('/var/www/html/w...')
+#3 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/helper.function.php(523): iwj_load_template('/var/www/html/w...', Array, false)
+#4 /var/www/html/wordpress/wp-content/plugins/iwjob/includes/front.class.php(258): iwj_get_template_part('login-popup')
+#5 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): IWJ_Front::print_templates('')
+#6 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-content/plugins/iwjob/includes/class/socials/google/Google_Client.php on line 21
+
